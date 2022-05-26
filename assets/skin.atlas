@@ -1,0 +1,20 @@
+
+skin.png
+size: 256, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bitmap
+  rotate: false
+  xy: 1, 195
+  size: 250, 54
+  orig: 250, 54
+  offset: 0, 0
+  index: -1
+bitmap2
+  rotate: false
+  xy: 1, 139
+  size: 250, 54
+  orig: 250, 54
+  offset: 0, 0
+  index: -1
